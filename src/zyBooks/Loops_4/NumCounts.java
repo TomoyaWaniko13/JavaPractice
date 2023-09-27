@@ -8,12 +8,15 @@ public class NumCounts {
         int dataValue;
 
         /* Your code goes here */
+
+        //scnr.hasNextInt() can be used
         while (scnr.hasNextInt()) {
             dataValue = scnr.nextInt();
             if (dataValue >= -5 && dataValue <= 35) {
                 System.out.println(dataValue + " is valid");
             } else {
                 System.out.println(dataValue + " is invalid");
+                break;
             }
         }
     }
