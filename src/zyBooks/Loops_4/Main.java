@@ -1,2 +1,4 @@
-package zyBooks.Loops_4;public class Main {
+package zyBooks.Loops_4;
+
+public class Main {
 }
