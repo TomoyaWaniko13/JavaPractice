@@ -5,5 +5,8 @@ public class Main {
         String s = "This ";
         System.out.println(s.indexOf(" "));
         System.out.println(s.indexOf("h"));
+
+        int n = -2;
+        System.out.println(-n);
     }
 }

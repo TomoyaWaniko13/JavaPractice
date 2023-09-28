@@ -2,7 +2,7 @@ package zyBooks.Loops_4;
 
 import java.util.Scanner;
 
-
+//4.7.1 Nested loop
 //Integers firstNum and secondNum are read from input. \
 // For each number from firstNum to secondNum, output the number's value
 // of dash characters ('-').
